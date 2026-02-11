@@ -1,0 +1,53 @@
+[
+{
+    "id": "darkKnight",
+    "title": "The Batman 2",
+    "description": "Tras los eventos del primer año, Bruce Wayne se sumerge en las profundidades de la corrupción de Gotham mientras un nuevo adversario emerge de las sombras para poner a prueba su código moral.",
+    "releaseDate": "2024-10-03",
+    "duration": 175,
+    "img": "/src/assets/Dark_Knight.jpg",
+    "backdropImg": "https://images.alphacoders.com/121/1210810.jpg",
+    "genre": ["Action", "Crime", "Drama"],
+    "rating": 8.7,
+    "director": "Matt Reeves",
+    "cast": ["Robert Pattinson", "Zoë Kravitz", "Colin Farrell"],
+    "budget": "$200M",
+    "trailerUrl": "https://www.youtube.com/watch?v=fWQrd6cwJ0A",
+    "language": "English",
+    "status": "In Production"
+},
+{
+    "id": "monster",
+    "title": "Godzilla",
+    "description": "Un gigante radiactivo despierta de su letargo milenario para restaurar el equilibrio de la naturaleza mientras la humanidad lucha por sobrevivir a su paso devastador.",
+    "releaseDate": "2016-05-16",
+    "duration": 123,
+    "img": "https://i.etsystatic.com/15375993/r/il/840302/1903068907/il_fullxfull.1903068907_ngnz.jpg",
+    "backdropImg": "https://images6.alphacoders.com/508/508493.jpg",
+    "genre": ["Action", "Sci-Fi", "Adventure"],
+    "rating": 9.0,
+    "director": "Gareth Edwards",
+    "cast": ["Aaron Taylor-Johnson", "Elizabeth Olsen", "Bryan Cranston"],
+    "budget": "$160M",
+    "trailerUrl": "https://www.youtube.com/watch?v=QjKO10hKtYw",
+    "language": "Japanese/English",
+    "status": "Released"
+},
+{
+    "id": "MaikolAventura",
+    "title": "Maikol Yordan de Viaje Perdido",
+    "description": "Maikol Yordan de Viaje Perdido (2014) es una comedia costarricense protagonizada por el personaje Maikol Yordan Soto Sibaja, interpretado por el comediante Mario Chacón (del grupo La Media Docena).",
+    "releaseDate": "2014-07-15",
+    "duration": 95,
+    "img": "https://m.media-amazon.com/images/M/MV5BMjM3NzkwMjg2OF5BMl5BanBnXkFtZTgwODEzNzI5MzE@._V1_.jpg",
+    "backdropImg": "https://via.placeholder.com/1920x1080?text=Background+Adventure",
+    "genre": ["Comedy", "Adventure"],
+    "rating": 8.5,
+    "director": "La media docena",
+    "cast": ["Mario Chacón", "Adal Ramones"],
+    "budget": "$200,000",
+    "trailerUrl": "https://www.youtube.com/watch?v=GnuMy9lv2-U",
+    "language": "Spanish",
+    "status": "Released"
+}
+]
