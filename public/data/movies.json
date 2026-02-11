@@ -5,7 +5,7 @@
     "description": "Tras los eventos del primer año, Bruce Wayne se sumerge en las profundidades de la corrupción de Gotham mientras un nuevo adversario emerge de las sombras para poner a prueba su código moral.",
     "releaseDate": "2024-10-03",
     "duration": 175,
-    "img": "/src/assets/Dark_Knight.jpg",
+    "img": "https://m.media-amazon.com/images/S/pv-target-images/3de84cca07fc963b66a01a5465c2638066119711e89c707ce952555783dd4b4f.jpg",
     "backdropImg": "https://images.alphacoders.com/121/1210810.jpg",
     "genre": ["Action", "Crime", "Drama"],
     "rating": 8.7,
